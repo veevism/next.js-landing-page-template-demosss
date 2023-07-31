@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Services",
+    "child": [
+      {
+        "title": "Lorem Ipsum 1",
+        "link": "/"
+      },
+      {
+        "title": "Lorem Ipsum 2",
+        "link": "/"
+      },
+      {
+        "title": "Lorem Ipsum 3",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "About Us",
+    "child": [
+      {
+        "title": "Contact Us",
+        "link": "/"
+      },
+      {
+        "title": "FAQs",
+        "link": "/"
+      },
+      {
+        "title": "Privacy Policy",
+        "link": "/"
+      }
+    ]
+  }
+]

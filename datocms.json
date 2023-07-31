@@ -1,0 +1,10 @@
+{
+  "name": "Next.js landing page template",
+  "description": "Simple landing page website built with Next.js and DatoCMS",
+  "previewImage": "https://www.datocms-assets.com/205/1652096903-landing-page-template.png",
+  "datocmsProjectId": "70257",
+  "deploymentType": "static",
+  "buildCommand": "npm run build",
+  "datocmsApiTokenEnvName": "DATOCMS_API_READONLY_TOKEN",
+  "livePreviewUrl": "https://nextjs-demo-bay.vercel.app/"
+}
